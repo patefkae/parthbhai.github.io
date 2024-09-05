@@ -40,8 +40,8 @@ div#video iframe {
 }
 
 #people {
-  margin-left: 210px;
-  margin-top: 380px;
+  margin-left: 310px;
+  margin-top: 480px;
   bottom: 65px;
   left: 600px;
   width: 480px;
@@ -78,11 +78,11 @@ div#sea {
 
 .giftbox {
   position: absolute;
-  width: 500px;
-  height: 400px;
+  width: 400px;
+  height: 300px;
   left: 50%;
-  margin-left: -150px;
-  bottom: 1700px;
+  margin-left: -10px;
+  bottom: 800px;
   z-index: 10;
 }
 .giftbox > div {

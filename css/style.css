@@ -40,8 +40,8 @@ div#video iframe {
 }
 
 #people {
-  margin-left: 310px;
-  margin-top: 480px;
+  margin-left: 270px;
+  margin-top: 500px;
   bottom: 65px;
   left: 600px;
   width: 480px;
@@ -81,7 +81,7 @@ div#sea {
   width: 400px;
   height: 300px;
   left: 50%;
-  margin-left: -10px;
+  margin-left: 100px;
   bottom: 800px;
   z-index: 10;
 }
